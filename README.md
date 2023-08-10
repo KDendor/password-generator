@@ -17,6 +17,8 @@ md
 ## Credits
 Sources that helped me work on this project:
 
+Source code from Bootcamp Spot
+
 Student Support Tutor :
 Erik Hoverston
 
