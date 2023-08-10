@@ -30,7 +30,6 @@ function generatePassword() {
       // ex Random number is 15 
       // password += chars.substring(randomNumber, randomNumber +1);
   }
-  
   return password;
 }
 

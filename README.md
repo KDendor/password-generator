@@ -38,6 +38,7 @@ Alert, Confirm, and Prompt Dialogs with JavaScript Steve Griffith https://www.yo
 
 Stack Overflow JavaScript Random Password Generator with Prompts for Criteria https://stackoverflow.com/questions/74880037/javascript-random-password-generator-with-prompts-for-criteria
 
+mdn web docs_ Function Return Values https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Return_values
 
 
 ## License
