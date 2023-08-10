@@ -40,6 +40,8 @@ Stack Overflow JavaScript Random Password Generator with Prompts for Criteria ht
 
 mdn web docs_ Function Return Values https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Return_values
 
+HTML <script> src Attribute https://www.w3schools.com/tags/att_script_src.asp
+
 
 ## License
 
