@@ -15,7 +15,7 @@ md
   
 
 ## Credits
-Sources that helped me complete this project:
+Sources that helped me work on this project:
 
 Student Support Tutor :
 Erik Hoverston
@@ -33,6 +33,10 @@ W3Schools JavaScript String substring() https://www.w3schools.com/jsref/jsref_su
 Alert, Confirm, and Prompt Dialogs with JavaScript Steve Griffith https://www.youtube.com/watch?v=xXwSJGYqeIQ
 
 3 Methods for Adding Images to GitHub README Files https://www.seancdavis.com/posts/three-ways-to-add-image-to-github-readme/
+
+Stack Overflow JavaScript Random Password Generator with Prompts for Criteria https://stackoverflow.com/questions/74880037/javascript-random-password-generator-with-prompts-for-criteria
+
+
 
 ## License
 
