@@ -8,7 +8,7 @@ An application that generates a random password based on criteria selected; buil
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Input length criteria to get a randomly generated password.
 
 md
 ![Image of password generator app](assets/images/03-MockUp.png)
