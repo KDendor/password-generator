@@ -2,9 +2,8 @@
 
 function generatePassword() {
   // Assignment code here
-  var chars = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!#$%&<=>?@^_";
-  var numbers = '0123456789';
-  var lowerCase = 'abcdefghijklmno...';
+  var chars = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+  var specials = "!#$%&<=>?@^_
   var password = "";
   var passwordLength = prompt('How long would you like your password to be? (Password needs to be longer than 7 characters and less than 129)'); // these are the input VALIDATIONS (>= 8 && >=128;)
   
